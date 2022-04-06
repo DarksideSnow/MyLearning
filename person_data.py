@@ -22,3 +22,4 @@ else:
     print(f'O(A) {nome} está com o IMC ideal? \n Sim '
           f'\n Resgitro concluído com sucesso!')
 print('__________________________________________________')
+input('')
